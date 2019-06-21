@@ -4,6 +4,9 @@
 * [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
 <!-- default file list end -->
 # ASPxButton - How to implement a custom layout when EnableDefaultAppearance is disabled
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3953)**
+<!-- run online end -->
 
 
 <p><strong>Not</strong><strong>e</strong><strong> t</strong><strong>h</strong><strong>at since version 13.2 the EnableDefaultAppearance property has become obsolete. Now use recommendations from the </strong><a href="https://www.devexpress.com/Support/Center/p/KA18872">ASPxButton - How to disable default appearance starting with 13.2 (display only an image)</a><strong> KB article to customize ASPxButton.</strong></p><p><br />
