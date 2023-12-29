@@ -1,17 +1,9 @@
-<!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/128530516/11.2.11%2B)
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E3953)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
 <!-- default file list -->
 *Files to look at*:
 
 * [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
 <!-- default file list end -->
 # ASPxButton - How to implement a custom layout when EnableDefaultAppearance is disabled
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3953)**
-<!-- run online end -->
 
 
 <p><strong>Not</strong><strong>e</strong><strong> t</strong><strong>h</strong><strong>at since version 13.2 the EnableDefaultAppearance property has become obsolete. Now use recommendations from the </strong><a href="https://www.devexpress.com/Support/Center/p/KA18872">ASPxButton - How to disable default appearance starting with 13.2 (display only an image)</a><strong> KB article to customize ASPxButton.</strong></p><p><br />
